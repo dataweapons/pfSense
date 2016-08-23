@@ -3,6 +3,7 @@ related to all things Pfsense.
 
 ## INSTALLATION
 - https://doc.pfsense.org/index.php/InstallationGuide
+- https://doc.pfsense.org/index.php/Modifying_Embedded
 
 ## AUTHENTICATION
 - http://networkradius.com/doc/FreeRADIUS%20Technical%20Guide.pdf
@@ -17,3 +18,7 @@ related to all things Pfsense.
 ## SETUP
 - https://doc.pfsense.org/index.php/PfSense_2_on_VMware_ESXi_5
 - https://doc.pfsense.org/index.php/Setup_Snort_Package
+- https://doc.pfsense.org/index.php/Dynamic_DNS
+- https://doc.pfsense.org/index.php/Use_an_existing_wireless_router_with_pfSense
+- https://doc.pfsense.org/index.php/HOWTO_enable_SSH_access
+
